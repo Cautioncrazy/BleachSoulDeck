@@ -1,0 +1,122 @@
+Welcome to Bleach Soul Deck!
+
+This document outlines the core rules for playing the game.
+
+--- OBJECTIVE ---
+The primary goal is to reduce your opponent's Life Points from 30 to 0.
+You can also win if your opponent is unable to draw a card from an empty deck.
+
+--- GAME SETUP ---
+
+Life Points: Each player starts with 30 Life Points.
+
+Deck Size: Your main deck must contain exactly 50 cards.
+
+Card Limit: A maximum of 3 copies of any single card is allowed.
+
+Starting Hand: Each player draws 5 cards.
+
+Mulligan: You may shuffle your starting hand back into your deck and draw a new hand of 5 cards. If you do, you must place one card from your new hand on the bottom of your deck.
+
+First Turn: The player who goes first skips their first Draw Phase.
+
+--- TURN PHASES ---
+A turn consists of the following phases, in order:
+
+Restoration Phase: All your "Exhausted" (tapped) cards become "Ready" (untapped).
+
+Upkeep Phase: Effects that trigger "at the start of your turn" resolve.
+
+Draw Phase: Draw one card from your deck (skipped on the first player's first turn).
+
+Main Phase 1: You may play cards (Characters, Equipment, Fields) and activate abilities. You may play only ONE Spiritual Energy card per turn.
+
+Combat Phase: The phase where you declare attackers and battle.
+
+Main Phase 2: Another phase to play cards and activate abilities after combat.
+
+End Phase: "Until end of turn" effects wear off. If you have more than 6 cards in hand, you must discard down to 6.
+
+--- THE BATTLEFIELD (ZONES) ---
+
+Deck Zone: Holds your face-down deck.
+
+Soul Burial: Your discard pile.
+
+Character Zone: The front line with 5 slots for your main attacking/blocking characters.
+
+Support Zone: The back line with 5 slots for Technique, Equipment, and Spiritual Energy cards.
+
+Field Zone: A single slot for a powerful Field card that affects the whole game.
+
+--- RESOURCES ---
+
+Reiryoku (Spiritual Power): This is your "mana." You play one Reiryoku Source card per turn from your hand into the Support Zone. You "Exhaust" (tap) these sources to generate the energy needed to pay for cards and abilities.
+
+Reiatsu (Spiritual Pressure): This is the attack power of a Character card, used in combat calculations.
+
+Paying Card Costs:
+Card costs are shown in the top-right corner (e.g., 4BB, 5WB). This is a combination of a generic cost and a specific cost.
+
+The Number (Generic Cost): This can be paid with Spiritual Energy of ANY color.
+
+The Letters (Specific/Faction Cost): This MUST be paid with energy of that specific color.
+
+W = Red (Soul Reaper)
+
+B = Black (Arrancar)
+
+U = Blue (Quincy)
+
+G = Gray (Human)
+
+Examples:
+
+A card with a cost of 4BB requires a total of 6 energy to play. The 4 can be any color, but the BB must be two Black energy.
+
+A card with a cost of 5WB requires a total of 7 energy to play. The 5 can be any color, but the W must be one White energy, and the B must be one Black energy.
+
+--- CARD TYPES ---
+
+Character: Your primary units for attacking and defending. They have Reiatsu (power) and Genryu (health).
+
+Technique: Single-use "spell" cards with immediate effects (e.g., Kido, Cero).
+
+Equipment: Cards that attach to your Characters to provide persistent boosts (e.g., Zanpakutō).
+
+Field: Game-altering cards that represent locations and affect both players.
+
+Spiritual Energy: The source of your power to play other cards.
+
+--- SUMMONING CHARACTERS ---
+Characters are played based on their Tier:
+
+Tier 1 (Cost 1-3): Played by paying their Reiryoku cost.
+
+Tier 2 (Cost 4-6): Played by paying their cost AND tributing (sacrificing) one Character you control.
+
+Tier 3 (Cost 7+): Played by paying their cost AND tributing one or two Characters you control.
+
+--- COMBAT ---
+
+Declare Attackers: The active player exhausts the characters they wish to attack with. Attacks are declared against the opponent, not specific characters.
+
+Declare Blockers: The defending player chooses which of their ready characters will block the attackers.
+
+Damage Step:
+
+If an attacker is unblocked, it deals damage equal to its Reiatsu to the opponent's Life Points.
+
+If an attacker is blocked, the attacker and blocker deal their Reiatsu as damage to each other simultaneously.
+
+If a character takes damage equal to or greater than its Genryu in a single turn, it is destroyed and sent to the Soul Burial.
+
+--- KEYWORDS ---
+
+Flash Step: Allows a card to be played at any time, including on your opponent's turn.
+
+Hierro: A passive ability on Arrancar that reduces damage they take.
+
+Blut Vene/Arterie: Activated abilities on Quincy cards to boost Genryu (defense) or Reiatsu (offense).
+
+Shikai/Bankai/Resurrección: Powerful transformations that replace a character with a stronger version, often requiring specific conditions or tributes to be played.
